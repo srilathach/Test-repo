@@ -1,2 +1,1 @@
-# Test-repo
-It is a test repository.
+Trial version
